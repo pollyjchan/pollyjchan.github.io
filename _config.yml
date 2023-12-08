@@ -50,7 +50,7 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification :
+google_site_verification : 
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
@@ -73,22 +73,23 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
-  google:
-    tracking_id          :
+  provider               :  "custom" # false (default), "google", "google-universal", "custom"
+  google: 
+    tracking_id          : google-site-verification=03--NSXiBFC0_N-LSVPUSVfYpspQq5D7MIPs-lbFxqA
 
 
 # Site Author
 author:
   name             : "Polly Chan"
-  avatar           : "profile.png"
-  bio              : ""
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  avatar           : "headshot1.jpg"
+  bio              : "Department of Political Science, University of California, Berkeley"
+  location         : 
+  employer         : 
+  pubmed           : 
+  deptsite         : "https://polisci.berkeley.edu/people/person/pollychan"
+  googlescholar    : "https://scholar.google.com/citations?user=MYMNobIAAAAJ&hl=en"
+  email            : "polly.chan@berkeley.edu"
+  researchgate     :  
   uri              :
   bitbucket        :
   codepen          :
@@ -100,16 +101,16 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0000-0002-5587-0674"
   pinterest        :
   soundcloud       :
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "pollyjchan"
   vine             :
   weibo            :
   xing             :
@@ -176,16 +177,16 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
-  publications:
+  research:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
@@ -261,14 +262,12 @@ timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database
 # Plugins
 plugins:
   - jekyll-paginate
-  - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
-  - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
   - jemoji
