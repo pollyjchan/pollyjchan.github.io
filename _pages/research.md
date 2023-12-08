@@ -5,19 +5,6 @@ permalink: /research/
 author_profile: true
 font-size: $type-size-4
 ---
-
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
-
-
-
 ## Publication
 
 Tetsuro Kobayashi, and **Polly Chan**. 2022. "[Political Sensitivity Bias in Autocratizing Hong Kong](https://doi.org/10.1093/ijpor/edac028)." _International Journal of Public Opinion Research_ 34(4): edac028.
