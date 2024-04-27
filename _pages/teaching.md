@@ -15,8 +15,6 @@ The Politics of Human Rights, Spring 2024 <br> Professor Scott Straus
 
 The Comparative Study of Genocide, Fall 2023 <br> Professor Scott Straus
 
-hi
-
-**University of Hong Kong**
+**<u> University of Hong Kong </u>**
 
 Causes of International War, Spring 2020 <br> Professor Kai Quek
