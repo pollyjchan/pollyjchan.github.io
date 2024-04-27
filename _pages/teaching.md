@@ -7,14 +7,14 @@ author_profile: true
 ## Graduate Student Instructor / Teaching Assistant
 ---
 
-### University of California, Berkeley
+**University of California, Berkeley**
 
-**Civil Conflict and International Intervention**, Fall 2024 <br> Professor Aila Matanock
+Civil Conflict and International Intervention, Fall 2024 <br> Professor Aila Matanock
 
-**The Politics of Human Rights**, Spring 2024 <br> Professor Scott Straus
+The Politics of Human Rights, Spring 2024 <br> Professor Scott Straus
 
-**The Comparative Study of Genocide**, Fall 2023 <br> Professor Scott Straus
+The Comparative Study of Genocide, Fall 2023 <br> Professor Scott Straus
 
-### University of Hong Kong
+**University of Hong Kong**
 
-**Causes of International War**, Spring 2020 <br> Professor Kai Quek
+Causes of International War, Spring 2020 <br> Professor Kai Quek
