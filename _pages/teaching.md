@@ -7,9 +7,11 @@ author_profile: true
 ## Graduate Student Instructor / Teaching Assistant
 ---
 
-**University of California, Berkeley**
+<u> University of California, Berkeley </u>
 
 Civil Conflict and International Intervention, Fall 2024 <br> Professor Aila Matanock
+
+<p class="under">This text has a line underneath it.</p>
 
 The Politics of Human Rights, Spring 2024 <br> Professor Scott Straus
 
