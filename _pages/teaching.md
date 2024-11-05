@@ -9,6 +9,8 @@ author_profile: true
 
 **<u> University of California, Berkeley </u>** 
 
+Women in Politics in Comparative Perspective, Spring 2025 <br> Dr Melanie Phillips
+
 Civil Conflict and International Intervention, Fall 2024 <br> Professor Aila Matanock
 
 The Politics of Human Rights, Spring 2024 <br> Professor Scott Straus
