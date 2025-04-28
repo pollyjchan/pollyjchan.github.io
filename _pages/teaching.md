@@ -9,14 +9,16 @@ author_profile: true
 
 **<u> University of California, Berkeley </u>** 
 
-Women in Politics in Comparative Perspective, Spring 2025 <br> Dr Melanie Phillips
+Reconciliation After Atrocities, Fall 2025 <br> Amy Gurowitz
 
-Civil Conflict and International Intervention, Fall 2024 <br> Professor Aila Matanock
+Women in Politics in Comparative Perspective, Spring 2025 <br> Melanie Phillips
 
-The Politics of Human Rights, Spring 2024 <br> Professor Scott Straus
+Civil Conflict and International Intervention, Fall 2024 <br> Aila Matanock
 
-The Comparative Study of Genocide, Fall 2023 <br> Professor Scott Straus
+The Politics of Human Rights, Spring 2024 <br> Scott Straus
+
+The Comparative Study of Genocide, Fall 2023 <br> Scott Straus
 
 **<u> University of Hong Kong </u>**
 
-Causes of International War, Spring 2020 <br> Professor Kai Quek
+Causes of International War, Spring 2020 <br> Kai Quek
