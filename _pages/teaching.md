@@ -9,6 +9,8 @@ author_profile: true
 
 **<u> University of California, Berkeley </u>** 
 
+Chinese Politics, Spring 2026 (Scheduled) <br> Xiaobo Lü
+
 Reconciliation After Atrocities, Fall 2025 <br> Amy Gurowitz
 
 Women in Politics in Comparative Perspective, Spring 2025 <br> Melanie Phillips
