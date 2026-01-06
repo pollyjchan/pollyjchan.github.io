@@ -9,7 +9,7 @@ author_profile: true
 
 **<u> University of California, Berkeley </u>** 
 
-Chinese Politics, Spring 2026 (Scheduled) <br> Xiaobo Lü
+Chinese Politics, Spring 2026 <br> Xiaobo Lü
 
 Reconciliation After Atrocities, Fall 2025 <br> Amy Gurowitz
 
