@@ -7,8 +7,7 @@ author_profile: true
 ## Graduate Student Instructor / Teaching Assistant
 ---
 
-**<u> University of California, Berkeley </u>** 
-
+**<u> University of California, Berkeley </u>** <br>
 Chinese Politics, Spring 2026 <br> Xiaobo Lü
 
 Reconciliation After Atrocities, Fall 2025 <br> Amy Gurowitz
@@ -21,6 +20,6 @@ The Politics of Human Rights, Spring 2024 <br> Scott Straus
 
 The Comparative Study of Genocide, Fall 2023 <br> Scott Straus
 
-**<u> University of Hong Kong </u>**
+**<u> University of Hong Kong </u>** <br>
 
 Causes of International War, Spring 2020 <br> Kai Quek
