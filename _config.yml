@@ -87,7 +87,7 @@ author:
   employer         : 
   pubmed           : 
   deptsite         : "https://polisci.berkeley.edu/people/person/pollychan"
-  googlescholar    : "https://scholar.google.com/citations?user=MYMNobIAAAAJ&hl=en"
+  googlescholar    : #"https://scholar.google.com/citations?user=MYMNobIAAAAJ&hl=en"
   email            : "polly.chan@berkeley.edu"
   researchgate     :  
   uri              :
