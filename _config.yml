@@ -86,7 +86,7 @@ author:
   location         : 
   employer         : 
   pubmed           : 
-  deptsite         : "https://polisci.berkeley.edu/people/person/pollychan"
+  deptsite         : #"https://polisci.berkeley.edu/people/person/pollychan"
   googlescholar    : #"https://scholar.google.com/citations?user=MYMNobIAAAAJ&hl=en"
   email            : "polly.chan@berkeley.edu"
   researchgate     :  
@@ -104,13 +104,13 @@ author:
   impactstory      : 
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/0000-0002-5587-0674"
+  orcid            : #"http://orcid.org/0000-0002-5587-0674"
   pinterest        :
   soundcloud       :
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "pollyjchan"
+  twitter          : #"pollyjchan"
   vine             :
   weibo            :
   xing             :
