@@ -8,7 +8,7 @@ author_profile: true
 ---
 
 **<u> University of California, Berkeley </u>** <br>
-War!, Fall 2026 <br> Ron Hassner
+WAR!, Fall 2026 <br> Ron Hassner
 
 Chinese Politics, Spring 2026 <br> Xiaobo Lü
 
