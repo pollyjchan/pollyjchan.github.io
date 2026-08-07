@@ -7,6 +7,8 @@ author_profile: true
 ## Peer-Reviewed Articles
 ---
 
+[4] Tetsuro Kobayashi, **Polly Chan**, and Chengfei Gong. Adaptation Amid Autocratization in Hong Kong: The Roles of Powerlessness and Secondary Control in Emigration and Self-Censorship. _Accepted._
+
 [3] Tetsuro Kobayashi, Jaehyun Song, and **Polly Chan**. 2025. [Is A Snapshot Enough? Repeated List Experiments in Autocratizing Hong Kong under the National Security Law](https://doi.org/10.1080/17457289.2025.2581905). *Journal of Elections, Public Opinion and Parties* 1-15.
 
 [2] Tetsuro Kobayashi, and **Polly Chan**. 2022. [Political Sensitivity Bias in Autocratizing Hong Kong](https://doi.org/10.1093/ijpor/edac028). *International Journal of Public Opinion Research* 34(4): edac028.
